@@ -63,7 +63,6 @@ int main(void) {
 //************************************************************************************************
 
 int numReverse(int normNum) {
-	loopVar i;
 	int numLength;
 
 	numLength = (int) log10(normNum);
